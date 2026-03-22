@@ -3,7 +3,7 @@
 - [English](README.md)
 
 This is my own mapping, get your own. 
-Also thanks for the OG devs for this map & actions workflow!
+Also thanks for the OG devs for the git build actions!
 
 
 ## Sofle Keymap
